@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrewWeird
-- 👀 I’m interested in C#, Xamarin 
-- 🌱 I’m currently learning Xamarin 
+- 👀 I’m interested in C#, Angular, EF Core and X-platform Development.
+- 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
